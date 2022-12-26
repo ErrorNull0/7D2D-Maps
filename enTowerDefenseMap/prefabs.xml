@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<prefabs>
+  <decoration type="model" name="enTD-map-200x200x20-03" position="-104,59,-103" rotation="0" />
+  <decoration type="model" name="enTD-tower02" position="-9,62,-8" rotation="0" />
+</prefabs>
